@@ -71,7 +71,7 @@ This project demonstrates the construction and application of Pareto charts in T
 - **Healthy Diversification**: Balanced product portfolio
 - **Strategic Advantage**: Reduced dependency on narrow product range
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Tableau Desktop 2022+
@@ -84,4 +84,44 @@ This project demonstrates the construction and application of Pareto charts in T
 3. Follow the methodology steps outlined above
 4. Customize reference lines for specific business thresholds
 
-## 📁 Project Structure
+
+## Business Applications
+
+### Quality Management
+- Identify 20% of defect types causing 80% of production errors
+- Focus process improvement efforts effectively
+
+### Marketing Optimization
+- Pinpoint high-performing channels and campaigns
+- Allocate budgets based on performance contribution
+
+### Operational Efficiency
+- Analyze IT service desk tickets for common issues
+- Enable proactive system maintenance
+
+### Inventory Management
+- Identify top-selling products for stock optimization
+- Reduce carrying costs for low-performing items
+
+## Key Features
+
+- **Interactive Dashboard**: Dynamic Pareto chart with hover details
+- **Benchmark Analysis**: Reference lines for 80/20 principle evaluation
+- **Real-time Updates**: Live data connection capabilities
+- **Export Functionality**: Share insights across organization
+
+## Technologies Used
+
+- **Tableau Desktop**: Primary visualization tool
+- **Superstore Dataset**: Sample retail data
+- **Business Intelligence**: Analytical framework
+- **Statistical Analysis**: Pareto principle application
+
+## 📚 References
+
+1. [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+2. [Tableau Pareto Chart Documentation](https://help.tableau.com/current/pro/desktop/en-us/pareto.htm)
+3. Playfair Data: 3 Ways to Make Powerful Pareto Charts in Tableau
+4. Investopedia: The Pareto Principle (80/20 Rule)
+
+**Note**: This analysis demonstrates how simple visualization techniques can reveal critical business insights for strategic decision-making and risk management.
